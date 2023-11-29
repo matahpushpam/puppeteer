@@ -1,4 +1,6 @@
 # puppeteer form submission
+NodeJS version used - 18.12.1
+
 Installation steps
 - docker build --tag <tag-name> .
 - docker run -d -p 3000:3000 <tag-name>
